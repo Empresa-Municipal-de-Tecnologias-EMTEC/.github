@@ -1,6 +1,6 @@
-# Como Contribuir com os Projetos da Secretaria de Saúde de Juiz de Fora
+# Como Contribuir com os Projetos da Empresa Municipal de Tecnologias de Juiz de Fora - EMTEC
 
-A Secretaria de Saúde de Juiz de Fora incentiva a participação da comunidade no desenvolvimento e aprimoramento de seus projetos de código aberto. Suas contribuições são essenciais para a construção de soluções mais robustas e eficientes para a saúde pública do nosso município.
+A EMTEC incentiva a participação da comunidade no desenvolvimento e aprimoramento de seus projetos de código aberto. Suas contribuições são essenciais para a construção de soluções mais robustas e eficientes para a saúde pública do nosso município.
 
 Este guia estabelece as diretrizes para quem deseja colaborar com os projetos da nossa organização no GitHub. Seguir estas orientações garante que o processo de contribuição seja claro, eficiente e transparente para todos os envolvidos.
 
@@ -66,4 +66,4 @@ Se você encontrar um problema ou tiver uma ideia para uma nova funcionalidade, 
 
 ---
 
-Agradecemos o seu interesse e sua colaboração para aprimorar as ferramentas de saúde de Juiz de Fora!
+Agradecemos o seu interesse e sua colaboração para aprimorar as ferramentas da EMTEC!
